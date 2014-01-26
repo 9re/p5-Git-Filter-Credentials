@@ -55,6 +55,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/9re/p5-Git-Filter-Credentials/issues"
+      },
+      "homepage" : "https://github.com/9re/p5-Git-Filter-Credentials",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/9re/p5-Git-Filter-Credentials.git",
+         "web" : "https://github.com/9re/p5-Git-Filter-Credentials"
+      }
+   },
    "version" : "0.00",
    "x_contributors" : [
       "Taro Kobayashi <9re.3000@gmail.com>"

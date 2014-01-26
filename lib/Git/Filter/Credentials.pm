@@ -111,9 +111,19 @@ __END__
 
 Git::Filter::Credentials - Git Credential Filter written by perl5
 
+=head1 INSTALL
+
+=begin html
+
+<pre>
+$ minil install
+</pre>
+
+=end html
+
 =head1 DESCRIPTION
 
-Git::Filter::Credentials is ...
+This is the L<example repo proejct|https://github.com/9re/git-filter-credentials-test>. More detailed description is also available there.
 
 =head1 LICENSE
 
