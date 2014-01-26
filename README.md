@@ -1,10 +1,6 @@
 # NAME
 
-Git::Filter::Credentials - It's new $module
-
-# SYNOPSIS
-
-    use Git::Filter::Credentials;
+Git::Filter::Credentials - Git Credential Filter written by perl5
 
 # DESCRIPTION
 

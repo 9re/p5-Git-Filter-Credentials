@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Git Credential Filter written by perl5",
    "author" : [
       "@gmail.com>"
    ],
@@ -43,6 +43,8 @@
       },
       "runtime" : {
          "requires" : {
+            "Getopt::Long" : "2.36",
+            "String::Replace" : "0.02",
             "perl" : "5.008005"
          }
       },
@@ -53,5 +55,8 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "version" : "0.00",
+   "x_contributors" : [
+      "Taro Kobayashi <9re.3000@gmail.com>"
+   ]
 }
